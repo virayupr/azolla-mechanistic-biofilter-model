@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "Azolla Mechanistic Model V2.1"
+message: "If you use this software, please cite the associated manuscript and archived repository DOI."
+type: software
+authors:
+  - family-names: Vivekanandan
+    given-names: N.
+  - family-names: Rajeswari
+    given-names: K.
+  - family-names: Yuvraj Kanna
+    given-names: N. V.
+year: 2026
+version: "2.1"
+repository-code: "https://github.com/virayupr/azolla-mechanistic-biofilter-model"

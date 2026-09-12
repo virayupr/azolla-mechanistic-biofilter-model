@@ -1,0 +1,8 @@
+metric,value,unit,evidence_status
+V2.1_reference_C30,467.5,ppm,model_output
+ventilation_only_C30,473.6,ppm,control
+panel_outlet_at_600_ppm_inlet,589.1153,ppm,model_output
+single_pass_efficiency,0.05442,dimensionless,model_output
+reference_CADR,3.918,m3_per_h,model_output
+living_wall_benchmark_20C,5.75,m3_per_h,cross_species_experimental_benchmark
+living_wall_benchmark_24C,12.39,m3_per_h,cross_species_experimental_benchmark

@@ -1,7 +1,9 @@
-import sys, numpy as np, pandas as pd, os
-sys.path.insert(0,'/mnt/data')
-import sobol_numba as m
+import numpy as np
+import pandas as pd
+import os
+import sobol_converged_2048 as m
 from numba import njit
+
 @njit(cache=True)
 def room_trace(A,L,I,a_s,ACH,Qb,Pmax,alpha,Kc,Lc,dt=30.):
     V=m.V; COUT=m.COUT; C0=m.C0; TEND=m.TEND

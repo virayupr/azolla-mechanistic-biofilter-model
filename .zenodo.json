@@ -1,0 +1,29 @@
+{
+  "title": "Azolla Mechanistic Model V2.1: Identifiability-First Mechanistic Framework for Active Azolla Biofilters",
+  "upload_type": "software",
+  "description": "Reproducible computational archive supporting the manuscript 'An Identifiability-First Mechanistic Framework for Active Azolla Biofilters: Coupling Physiology, Mass Transfer and Model-Form Uncertainty'. The repository contains the mechanistic modelling workflow, converged Sobol sensitivity analysis to N=2048 with bootstrap confidence intervals, practical-identifiability diagnostics, and machine-readable results. The model is literature-constrained and intended for screening and measurement prioritization; it does not claim experimental validation of a fabricated Azolla device.",
+  "creators": [
+    {"name": "Vivekanandan, N."},
+    {"name": "Rajeswari, K."},
+    {"name": "Yuvraj Kanna, N. V."}
+  ],
+  "keywords": [
+    "Azolla",
+    "environmental modelling",
+    "identifiability",
+    "global sensitivity analysis",
+    "Sobol",
+    "botanical biofilter",
+    "indoor CO2",
+    "model-form uncertainty"
+  ],
+  "version": "2.1",
+  "language": "eng",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/virayupr/azolla-mechanistic-biofilter-model",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
